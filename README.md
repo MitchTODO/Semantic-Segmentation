@@ -6,7 +6,7 @@ In this project, you'll label the pixels of a road in images using a Fully Convo
 
 ### Load pre-trained vgg model
 
-Function ```load_vgg loads``` loads pre-trained vgg model. Go <a href = "https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/advanced_deep_learning/data_road.zip">here</a> to download the pre-trained model.
+Function ```load_vgg loads``` loads pre-trained vgg model.
 
 ### Learn the correct features from the images
 
