@@ -48,7 +48,7 @@ Final hyperparamters used for training.
 
 ### Correctly labeling the road
 
-Results from the test images dataset.
+Results from the test images. From the GIF below, A pre-trained VGG-16 network combined with a fully convolutional network will successfully label the road. Performance was also improved  through the use of skip connections and adding element-wise to upsampled lower-level layers.
 
 ![Alt Text](./examples/video1.gif)
 
